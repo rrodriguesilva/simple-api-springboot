@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: chatbotapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rrodrigues
+Implementation-Vendor-Id: br.com.mbt.chatbotapi
+Build-Jdk: 1.8.0_74
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/chatbotapi
+Created-By: Maven Integration for Eclipse
+
